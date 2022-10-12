@@ -19,13 +19,13 @@ k. True
 l. False 
 
 #9
-a. x < y or x > y
+a. x < y or x > y  
 b. x < y or x == y
 c. x > y or x == y 
 d. x < y
 e. x > y 
 f. x == y
 g. x == y 
-h. x != y and x > 2
-i. x != y or x < 2
+h. x != y or x >= 2
+i. x != y and x >= 2
 j. x == y
