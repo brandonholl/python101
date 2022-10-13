@@ -17,10 +17,10 @@ g. range (-50, -9, 10)
 h. range (0)
 
 #19
-99 asterisks
+100 asterisks
 
 #23
-199 asterisks
+200 asterisks
 
 #24
-19 asterisks
+20 asterisks
